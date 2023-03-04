@@ -1,0 +1,23 @@
+{
+  "name": "xlsx-server",
+  "version": "1.0.0",
+  "description": "A server that receives excel files and returns json",
+  "main": "xlsx-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronSnowden/xlsx-server.git"
+  },
+  "keywords": [
+    "Excel",
+    "xlsx-server"
+  ],
+  "author": "Aaron Kibuuka Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronSnowden/xlsx-server/issues"
+  },
+  "homepage": "https://github.com/AaronSnowden/xlsx-server#readme"
+}
